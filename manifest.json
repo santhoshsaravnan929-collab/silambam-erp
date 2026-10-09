@@ -1,1 +1,17 @@
-{"name":"Silambam ERP","short_name":"Silambam ERP","start_url":"./","display":"standalone","background_color":"#fff9e8","theme_color":"#e0a900","description":"Local-first Silambam Academy ERP","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Silambam ERP",
+  "short_name": "Silambam ERP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffdf24",
+  "theme_color": "#e8b900",
+  "description": "Local-first Silambam Academy ERP",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

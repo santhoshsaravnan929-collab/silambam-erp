@@ -12,3 +12,6 @@ Use Reports or the top 💾 button to export a JSON backup. Store it safely (Goo
 
 ## Important
 This edition is single-device local-first. Multiple phones do not share data automatically. For multi-device synchronization, use a cloud backend later.
+
+
+Branding update: Uses the academy-provided logo and a charcoal, gold, and ivory theme. Database name remains unchanged.
